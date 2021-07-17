@@ -1,0 +1,85 @@
+2020-06-21 12:44:08,435 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-06-21 12:44:18,669 django.utils.autoreload INFO     /home/vesta/projects/vesta/vesta/sepehr/views.py changed, reloading.
+2020-06-21 12:44:18,669 asyncio      DEBUG    Using selector: EpollSelector
+2020-06-21 12:44:21,509 asyncio      DEBUG    Using selector: EpollSelector
+2020-06-23 13:58:36,174 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-06-23 13:58:37,344 django.utils.autoreload INFO     /home/vesta/projects/vesta/vesta/sepehr/views.py changed, reloading.
+2020-06-23 13:58:37,345 asyncio      DEBUG    Using selector: EpollSelector
+2020-08-10 13:53:37,446 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-10 13:54:06,924 django.utils.autoreload INFO     /home/vesta/projects/flightbot/vesta/sepehr/views.py changed, reloading.
+2020-08-10 13:54:06,925 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-17 14:46:45,276 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-17 14:46:46,761 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-17 14:46:46,824 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-17 14:51:56,440 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-18 15:07:05,485 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-18 17:57:43,716 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-18 17:57:44,887 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-18 17:57:44,888 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-23 19:26:29,614 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-23 19:26:49,957 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/serializers.py changed, reloading.
+2020-09-23 19:26:49,957 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 17:50:35,374 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 17:58:09,530 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 17:58:10,701 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 17:58:10,701 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 17:58:40,533 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 17:58:41,704 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 17:58:41,705 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 17:58:41,968 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 17:59:03,753 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 17:59:04,925 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 17:59:04,926 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 18:47:30,665 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 18:47:31,859 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 18:47:31,860 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:01:11,361 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:01:23,608 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 19:01:23,608 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:01:23,867 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:01:35,110 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 19:01:35,111 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:01:35,373 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:01:40,574 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 19:01:40,575 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:14:10,041 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:14:19,766 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:14:21,812 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:14:27,009 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 19:14:27,010 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:14:27,270 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:14:29,450 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 19:14:29,450 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:14:29,709 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:14:30,878 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 19:14:30,878 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:14:31,140 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:14:32,312 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 19:14:32,313 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:14:32,574 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:14:34,716 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:14:34,780 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:23:55,466 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:23:56,633 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 19:23:56,634 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:23:56,897 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 19:24:00,413 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 19:56:08,102 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 20:01:14,051 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-27 20:01:15,218 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-27 20:01:15,219 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-27 20:02:31,201 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-29 17:47:24,424 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-29 17:54:13,750 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-29 18:14:53,351 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-29 18:14:55,081 asyncio      DEBUG    Using selector: EpollSelector
+2020-09-29 19:52:12,189 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-29 19:52:56,446 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-29 19:56:09,194 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-29 19:56:13,387 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-09-29 19:56:13,387 asyncio      DEBUG    Using selector: EpollSelector
+2020-10-03 20:51:04,368 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-10-05 21:16:34,467 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-10-05 21:16:35,596 django.utils.autoreload INFO     /home/vesta/projects/vestabot/vesta/sepehr/views.py changed, reloading.
+2020-10-05 21:16:35,596 asyncio      DEBUG    Using selector: EpollSelector
+2020-10-16 19:53:27,515 django.utils.autoreload INFO     Watching for file changes with StatReloader

@@ -1,0 +1,74 @@
+
+
+<!-- extends "admin/sepehr/supplier/change_list.html" -->
+
+{% extends "admin/change_list.html" %}
+{% load static %}
+
+{% block content %}
+
+<style>
+    .form-response {
+        display: none;
+    }
+    .info {
+        display: none;
+        padding: 20px;
+        width: 30%;
+        background-color: #79aec8;
+        color: white;
+    }
+    .object-tools {
+        margin-top: -30px !important;
+    }
+</style>
+
+
+<br /><hr><br />
+<h1>
+    upload csv
+</h1>
+<div>
+    <form action="import-csv/" method="POST" enctype="multipart/form-data">
+        {{form.as_p}}
+        <button type="submit" class="button">Upload CSV</button>
+        {% csrf_token %}
+    </form>
+</div>
+<br /><hr><br />
+
+
+{% if objects_supplier %}
+    <h1>
+        crossing from captcha
+    </h1>
+
+    <div class="info">
+        <strong></strong>
+    </div><br/>
+    <span class="form-request">
+        <p>Enter URL Address:</p>
+        <select id="rnd_name_sup">
+            {% for object in objects_supplier %}
+                <option value={{object.name_rnd}}>{{object.alias_name}}</option>
+            {% endfor %}
+        </select>
+        <input id="req_captcha" class="button" type="submit" value="Send"/>
+    </span>
+
+    <span class="form-response">
+        <p>Captcha:</p>
+        <img src="" alt="image captcha" id="img_captcha">
+        <p>Enter Captcha:</p>
+        <input type="text" id="text_captcha">
+        <input id="res_captcha" class="button" type="submit" value="Send"/>
+    </span>
+<br/><br/><br/><hr/>
+{% endif %}
+<br/><br/><br/>
+
+
+{{ block.super }}
+{% endblock %}
+
+
